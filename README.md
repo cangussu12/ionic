@@ -1,2 +1,3 @@
 # ionic
-App gasolina ou alcool
+*App gasolina ou alcool
+*Curso ministrado pelo professor Jamilton Damasceno.
